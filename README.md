@@ -10,3 +10,4 @@ Literature of moral anxiety
 Multiplayer games (participating in the beta tests of World of Warcraft)  
 Cycling  
 
+[Contribution guidelines for this project](src/main/java)
