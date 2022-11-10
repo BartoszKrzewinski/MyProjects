@@ -14,5 +14,7 @@ Cycling
 
 ## 2. [My example test case](Images/testcase.png)  
 
-## 3. [My example bug report from uTest.com](Images/utest_bug_report.png)
+## 3. [My example bug report from uTest.com](Images/utest_bug_report.png)  
+
+## 4. [My example summary test report](Images/Raport_po_testach.PrestaShop.pdf)
 
