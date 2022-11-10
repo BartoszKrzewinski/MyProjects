@@ -12,7 +12,7 @@ Cycling
 
 ## 1. [Testing ***filmweb.pl*** registration form with Java/Selenium](src/main/java/RejestracjaFilmweb.java)  
 
-## 2. [Example test case](testcase.png)  
+## 2. [Example test case](Images/testcase.png)  
 
-## 3. [My example bug report from uTest.com](utest_bug_report.png)
+## 3. [My example bug report from uTest.com](Images/utest_bug_report.png)
 
