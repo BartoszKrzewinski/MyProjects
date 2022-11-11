@@ -64,6 +64,7 @@ My main hobbies are:
 ## Blogs read  
 * [testerzy.pl](https://testerzy.pl)  
 * [testerka.pl](https://testerka.pl)  
+* [testelka.pl](https://testelka.pl)  
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io)  
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)  
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)  
