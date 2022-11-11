@@ -87,5 +87,6 @@ My main hobbies are:
   
 ## 4. [My example test plan](Images/Plan_Testów_Bartosz_Krzewinski.pdf)
 
-## 5. [My example summary test report](Images/Raport_po_testach.PrestaShop.pdf)
+## 5. [My example summary test report](Images/Raport_po_testach.PrestaShop.pdf)  
 
+## 6. [Some methods of API testing in Postman(Simple Book Api)](https://www.postman.com/collections/fbdbea645879f1bd479e)
