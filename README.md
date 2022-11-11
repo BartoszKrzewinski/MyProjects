@@ -45,7 +45,7 @@ My main hobbies are:
   
 * CodersLab - Manual Tester [08.2022-09.2022]  
 * CodersLab - Automation Tester [10.2022-11.2022]  
-* Udemy - Java for beginners  
+* Udemy - Java for beginners  (In progress)
 * LinkedIn e-learnig courses:  
   * Agile Foundations  
   * CSS Essential Training  
