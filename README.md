@@ -13,6 +13,9 @@ My main hobbies are:
 * Multiplayer games (participating in the beta tests of World of Warcraft)  
 * Cycling  
   
+## Experience  
+* September 2022 - now | Manual QA Tester in uTest (Freelance)  
+  
 ## Technology stack  
   
 * Programming languages and frameworks:  
@@ -58,7 +61,14 @@ My main hobbies are:
 * ***"Testowanie i jakość oprogramowania. Modele, techniki, narzędzia"*** - A.Roman  
 * ***"Sztuka testowania oprogramowania"*** - G.J. Myers, C. Sandler, T. Badgett, T.M. Thomas  
   
-## My testing documentation
+## Blog reads  
+* [testerzy.pl](https://testerzy.pl)  
+* [testerka.pl](https://testerka.pl)  
+* [pwicherski.gitbook.io](https://pwicherski.gitbook.io)  
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)  
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
+  
+## My test documentation
   
 
 
