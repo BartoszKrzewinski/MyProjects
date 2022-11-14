@@ -27,7 +27,7 @@ My main hobbies are:
   * MySQL  
      
 * Version control systems:    
-  * GitHub  
+  * Git  
     
 * Work methodologies:  
   * SCRUM  
