@@ -59,9 +59,8 @@ public class filmwebRegisterSteps {
     }
 
     @Then("new account will be created")
-    public void accCreated () {
+    public void accCreated() {
 
-//        activatePage.displayActivatePage();
         Assert.assertEquals("AKTYWUJ KONTO!", activatePage.displayActivatePage());
 
 
