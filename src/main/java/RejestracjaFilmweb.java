@@ -19,7 +19,7 @@ public class RejestracjaFilmweb {
         WebElement acceptBtn = driver.findElement(By.xpath("//button[@id='didomi-notice-agree-button']"));
         acceptBtn.click();
         WebElement nickName = driver.findElement(By.xpath("//input[@class='materialForm__input materialForm__input--icon']"));
-        nickName.sendKeys("Ryszka123");
+        nickName.sendKeys("Ryaszka123");
         WebElement email = driver.findElement(By.name("email"));
         email.sendKeys("razrazrggazrazraz@gmail.com");
         WebElement password = driver.findElement(By.xpath("//input[@name='password']"));
