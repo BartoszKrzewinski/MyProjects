@@ -80,7 +80,8 @@ My main hobbies are:
 ## My test documentation
   
 
-## 1. [Testing ***filmweb.pl*** registration form with Java/Selenium](src/main/java/RejestracjaFilmweb.java)  
+## 1. [Testing ***filmweb.pl*** registration form (JAVA/Selenium with Cucumber BDD Framework)](/src/)  
+### [Test result](Images/wyniktestu.jpg)
 
 ## 2. [My example test case](Images/test.case.png)  
 
