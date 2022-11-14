@@ -17,7 +17,6 @@ public class ActivatePage {
 
     public String displayActivatePage() {
         WebElement activateText = driver.findElement(By.xpath("//*[@id=\"site\"]/div[2]/div/div/div[1]/div[1]/h2"));
-//        Assert.isTrue(activateText.isDisplayed(), "AKTYWUJ KONTO!");
         return activateText.getText();
 
 
