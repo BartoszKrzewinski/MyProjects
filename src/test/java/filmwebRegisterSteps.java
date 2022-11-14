@@ -8,6 +8,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
 import utils.DataFaker;
 
 import java.time.Duration;
@@ -60,7 +61,8 @@ public class filmwebRegisterSteps {
     @Then("new account will be created")
     public void accCreated () {
 
-        activatePage.displayActivatePage();
+//        activatePage.displayActivatePage();
+        Assert.assertEquals("AKTYWUJ KONTO!", activatePage.displayActivatePage());
 
 
     }
